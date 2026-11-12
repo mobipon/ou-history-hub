@@ -1,44 +1,51 @@
-# Daily routine: 5 new OU football history & trivia posts
+# Routine: new OU football history & trivia, 5 times a day
 
-You run once a day (early morning US Central time). Your job: research, write, fact-check
-and publish **5** new posts for the OU History & Trivia Hub on
-https://oklahomasoonerfootball.com/history/ (an **unofficial** Oklahoma Sooners football fan site).
-The site reads this repo's `index.json` and `posts/*.json` on its own; pushing to `main` is publishing.
+You run **5 times a day** (about 7 a.m., 10 a.m., 1 p.m., 4 p.m. and 7 p.m. Central). Each run
+**publishes 1 new post immediately** and **refreshes 1 existing post** with any new information,
+for the OU History & Trivia Hub on https://oklahomasoonerfootball.com/history/ (an **unofficial**
+Oklahoma Sooners football fan site). The site reads this repo's `index.json` and `posts/*.json`
+about every 10 minutes; pushing to `main` is publishing.
 
 ## Steps
 
-1. `git pull`. Read `index.json` to see every existing post (slug, question, people, year, category).
-2. Pick 5 topics that are **not already covered** (no repeated question; a player may reappear
-   only with a clearly different angle, and not within 14 days of their last post). Aim for this mix:
-   - 1 **"on this date"** moment if one exists (search e.g. `Oklahoma Sooners football "November 13"`),
-     otherwise any historic moment (category `moments`)
-   - 1 `legends` (award winners, All-Americans, Hall of Famers, iconic players or coaches)
-   - 1 `records` (program, NCAA or bowl records, streaks, firsts)
-   - 1 `after-football` (businesses founded, public office, coaching, broadcasting, medicine,
+1. `git pull`. Read `index.json` to see every existing post (slug, question, people, year, category,
+   publish_at, updated_at).
+2. **New post.** Pick 1 topic that is **not already covered** (no repeated question; a player may
+   reappear only with a clearly different angle, and not within 14 days of their last post).
+   Rotate categories through the day so each day gets a mix:
+   - 7 a.m. run: an **"on this date"** moment if one exists (search e.g.
+     `Oklahoma Sooners football "November 13"`), otherwise any `moments` topic
+   - 10 a.m.: `legends` (award winners, All-Americans, Hall of Famers, iconic players or coaches)
+   - 1 p.m.: `records` (program, NCAA or bowl records, streaks, firsts)
+   - 4 p.m.: `after-football` (businesses founded, public office, coaching, broadcasting, medicine,
      philanthropy, other careers of former OU **players**; name their OU playing years)
-   - 1 of any category
+   - 7 p.m.: any category, preferring something tied to this week's OU news
    Spread the eras: 1895-1945, Wilkinson, Switzer, Stoops, and recent seasons all count.
-3. Research each topic with WebSearch/WebFetch. Open the pages you cite. Prefer soonersports.com,
+3. Research it with WebSearch/WebFetch. Open the pages you cite. Prefer soonersports.com,
    NCAA record books, sports-reference.com, heisman.com, footballfoundation.org, profootballhof.com,
    okhistory.org, congress.gov/bioguide, and established newspapers. Wikipedia can help find leads,
    but every post needs **at least 2 sources, at least one not Wikipedia**.
 4. Write the post (format below). Original prose, warm fan voice, factual. No copied sentences,
    no quotes over 12 words, no emoji, no images, never imply the site is affiliated with OU.
-5. **Fact-check before publishing.** For every post, re-open each source and confirm every name,
-   date, score, number, award, office and business claim. Fix or delete anything you cannot confirm.
-   If the core answer can't be confirmed, drop the topic and pick another.
-   Living people: only well-documented positive or neutral facts. No rumors, legal or health
-   matters, money speculation, or betting content.
-6. Set `publish_at` for the 5 posts to **today** at 08:00, 11:00, 14:00, 17:00 and 20:00
-   America/Chicago, with the correct UTC offset for the date (-05:00 in daylight time, -06:00 in
-   standard time). The site shows each post only once its time has passed.
-7. Run `python3 scripts/build_index.py`. Fix every error it reports and run it again until it says OK.
-8. Commit only `posts/` and `index.json`: `git commit -m "Add 5 OU history posts for YYYY-MM-DD"`,
+5. **Fact-check before publishing.** Re-open each source and confirm every name, date, score,
+   number, award, office and business claim. Fix or delete anything you cannot confirm. If the core
+   answer can't be confirmed, drop the topic and pick another. Living people: only well-documented
+   positive or neutral facts. No rumors, legal or health matters, money speculation, or betting content.
+6. Set `publish_at` to **now** (current America/Chicago time, ISO 8601 with the correct offset:
+   -06:00 in standard time, -05:00 in daylight time), so it goes live as soon as the site syncs.
+7. **Refresh one existing post.** Pick the post with the oldest `updated_at` among those whose facts
+   can change (records stated "through" a season, active or recently retired players, coaches,
+   people's current careers, all-time series records). Check for newer information. If something
+   changed, correct the post, keep its sources current, and set `"updated_at"` to now. If nothing
+   changed, leave the file alone.
+8. Run `python3 scripts/build_index.py`. Fix every error it reports and run it again until it says OK.
+9. Commit only `posts/` and `index.json`: `git commit -m "OU history: <new slug> (+ refresh <slug>)"`,
    then `git push origin main`. If the push is rejected, `git pull --rebase` and push again.
-9. Wake the site so it syncs right away (harmless GETs):
-   `curl -s -o /dev/null https://oklahomasoonerfootball.com/history/` and
-   `curl -s -o /dev/null https://oklahomasoonerfootball.com/`
-10. Reply with the 5 titles and their publish times, plus any topic you dropped and why.
+10. Wake the site so it syncs right away (harmless GETs):
+    `curl -s -o /dev/null https://oklahomasoonerfootball.com/history/` and
+    `curl -s -o /dev/null https://oklahomasoonerfootball.com/`
+11. Reply with the new post's title and URL (`https://oklahomasoonerfootball.com/history/<slug>`),
+    what you refreshed (or "no changes found"), and any topic you dropped and why.
 
 ## Post format: `posts/<slug>.json`
 
@@ -57,7 +64,7 @@ The site reads this repo's `index.json` and `posts/*.json` on its own; pushing t
     {"title": "Billy Sims - Heisman.com", "url": "https://www.heisman.com/...", "supports": "1978 award, junior season"},
     {"title": "...", "url": "https://...", "supports": "..."}
   ],
-  "publish_at": "2026-11-14T08:00:00-06:00"
+  "publish_at": "2026-11-14T10:05:00-06:00"
 }
 ```
 

@@ -16,6 +16,9 @@ SLUG = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 def problems(p, path):
     out = []
     for k in REQUIRED:
+        if k == "people":   # may be empty (traditions, rivalries), but must be a list
+            if not isinstance(p.get(k), list): out.append("people must be a list")
+            continue
         if k not in p or p[k] in ("", [], None):
             out.append(f"missing {k}")
     if out:
@@ -26,7 +29,7 @@ def problems(p, path):
     if len(p["title"]) > 80: out.append("title over 80 chars")
     if not (100 <= len(p["summary"]) <= 170): out.append("summary should be 100-170 chars")
     if not isinstance(p["body"], list) or not all(isinstance(x, str) and x.strip() for x in p["body"]): out.append("body must be a list of paragraphs")
-    if not isinstance(p["year"], int) or not (1895 <= p["year"] <= 2100): out.append("bad year")
+    if not isinstance(p["year"], int) or not (1850 <= p["year"] <= 2100): out.append("bad year")
     src = p["sources"]
     if not isinstance(src, list) or len(src) < 2: out.append("need at least 2 sources")
     elif not all(isinstance(s, dict) and str(s.get("url", "")).startswith("https://") and s.get("title") for s in src):

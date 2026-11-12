@@ -1,4 +1,507 @@
 {
- "count": 0,
- "posts": []
+ "count": 30,
+ "posts": [
+  {
+   "slug": "bob-kalsu-ou-all-american-army-vietnam-1970",
+   "category": "after-football",
+   "title": "Bob Kalsu: The OU All-American Who Gave His Life in Vietnam",
+   "question": "Which former OU football player was killed in the Vietnam War?",
+   "answer": "Bob Kalsu, OU's All-America tackle in 1967, left the Buffalo Bills to serve in the Army and was killed in Vietnam on July 21, 1970.",
+   "summary": "Bob Kalsu, OU's 1967 All-America tackle, left the Buffalo Bills for Army service and was killed at Firebase Ripcord in Vietnam on July 21, 1970.",
+   "year": 1970,
+   "people": [
+    "Bob Kalsu"
+   ],
+   "publish_at": "2026-11-12T15:40:00-06:00",
+   "updated_at": "2026-11-12T15:40:00-06:00",
+   "hash": "6d2e211b45cf8c6f"
+  },
+  {
+   "slug": "adrian-peterson-2004-freshman-season-oklahoma-1925-yards",
+   "category": "legends",
+   "title": "Adrian Peterson's 2004 Freshman Season: 1,925 Yards at OU",
+   "question": "How many yards did Adrian Peterson rush for as a freshman at Oklahoma?",
+   "answer": "Adrian Peterson ran for 1,925 yards on a nation-leading 339 carries as a true freshman in 2004, an NCAA freshman record, and finished second in the Heisman voting.",
+   "summary": "Adrian Peterson ran for an NCAA freshman record 1,925 yards in 2004 and became the first freshman to finish as Heisman runner-up, behind USC's Matt Leinart.",
+   "year": 2004,
+   "people": [
+    "Adrian Peterson",
+    "Matt Leinart",
+    "Jason White"
+   ],
+   "publish_at": "2026-11-12T15:20:00-06:00",
+   "updated_at": "2026-11-12T15:20:00-06:00",
+   "hash": "378e8c6fb55b1f1b"
+  },
+  {
+   "slug": "darrell-royal-ou-quarterback-texas-coaching-legend",
+   "category": "after-football",
+   "title": "Darrell Royal: The Sooner Who Became a Texas Coaching Legend",
+   "question": "Did Texas coach Darrell Royal play football at Oklahoma?",
+   "answer": "Darrell Royal, an OU quarterback and defensive back from 1946 to 1949, coached Texas from 1957 to 1976 and won national titles in 1963, 1969 and 1970.",
+   "summary": "Darrell Royal starred at OU from 1946 to 1949, then coached Texas from 1957 to 1976, won three national titles and entered the College Football Hall of Fame.",
+   "year": 1957,
+   "people": [
+    "Darrell Royal",
+    "Bud Wilkinson"
+   ],
+   "publish_at": "2026-11-12T15:00:00-06:00",
+   "updated_at": "2026-11-12T15:00:00-06:00",
+   "hash": "a7d1771a44afdd76"
+  },
+  {
+   "slug": "brian-bosworth-butkus-award-1985-1986-oklahoma",
+   "category": "legends",
+   "title": "Brian Bosworth: OU's Two-Time Butkus Award Linebacker",
+   "question": "Who won the first two Butkus Awards?",
+   "answer": "Oklahoma linebacker Brian Bosworth won the first two Butkus Awards, in 1985 and 1986, and remains the award's only two-time college winner.",
+   "summary": "Brian Bosworth won the first two Butkus Awards in 1985 and 1986, led OU in tackles three straight years and helped win the 1985 national title.",
+   "year": 1985,
+   "people": [
+    "Brian Bosworth",
+    "Barry Switzer",
+    "Rocky Calmus",
+    "Teddy Lehman"
+   ],
+   "publish_at": "2026-11-12T14:40:00-06:00",
+   "updated_at": "2026-11-12T14:40:00-06:00",
+   "hash": "25f24486edf19515"
+  },
+  {
+   "slug": "prentice-gautt-ou-integration-pioneer-big-eight-associate-commissioner",
+   "category": "after-football",
+   "title": "Prentice Gautt: OU Pioneer Who Became a Conference Executive",
+   "question": "What did Prentice Gautt, OU's first Black football player, do after football?",
+   "answer": "Prentice Gautt, OU's first Black football player (1956-59), earned a Ph.D. in counseling psychology and became an associate commissioner of the Big Eight and later the Big 12.",
+   "summary": "Prentice Gautt, OU's first Black football player (1956-59), earned a Ph.D. in counseling psychology and became a Big Eight and Big 12 associate commissioner.",
+   "year": 1979,
+   "people": [
+    "Prentice Gautt",
+    "Bud Wilkinson"
+   ],
+   "publish_at": "2026-11-12T14:20:00-06:00",
+   "updated_at": "2026-11-12T14:20:00-06:00",
+   "hash": "5a2f64340f61d5ff"
+  },
+  {
+   "slug": "lee-roy-selmon-brothers-eufaula-oklahoma-outland-lombardi",
+   "category": "legends",
+   "title": "Lee Roy Selmon and the Selmon Brothers of Eufaula, Oklahoma",
+   "question": "Which three Selmon brothers played football at Oklahoma?",
+   "answer": "Lucious, Dewey and Lee Roy Selmon, all from Eufaula, Oklahoma, played for the Sooners. Lee Roy, the youngest, won the Outland Trophy and Lombardi Award in 1975 and reached the Pro Football Hall of Fame.",
+   "summary": "Lucious, Dewey and Lee Roy Selmon of Eufaula all starred at OU. Lee Roy won the 1975 Outland and Lombardi and became the first player Tampa Bay ever drafted.",
+   "year": 1975,
+   "people": [
+    "Lee Roy Selmon",
+    "Dewey Selmon",
+    "Lucious Selmon"
+   ],
+   "publish_at": "2026-11-12T14:00:00-06:00",
+   "updated_at": "2026-11-12T14:00:00-06:00",
+   "hash": "a3f43a3b911183b4"
+  },
+  {
+   "slug": "lee-roy-selmon-usf-athletic-director-tampa-restaurant",
+   "category": "after-football",
+   "title": "Lee Roy Selmon: OU Legend Who Became USF's Athletic Director",
+   "question": "What did Lee Roy Selmon do after his NFL career?",
+   "answer": "Lee Roy Selmon, an OU defensive lineman from 1972 to 1975, became USF's athletic director in 2001 and opened Lee Roy Selmon's restaurant in Tampa in 2000.",
+   "summary": "Lee Roy Selmon (OU 1972-75) became a Pro Football Hall of Famer, then served as USF's athletic director and opened a namesake restaurant in Tampa in 2000.",
+   "year": 2001,
+   "people": [
+    "Lee Roy Selmon",
+    "Dewey Selmon",
+    "Lucious Selmon"
+   ],
+   "publish_at": "2026-11-12T13:40:00-06:00",
+   "updated_at": "2026-11-12T13:40:00-06:00",
+   "hash": "fcc17dc1b3b1f9e3"
+  },
+  {
+   "slug": "kyler-murray-2018-heisman-oakland-athletics-mlb-draft",
+   "category": "legends",
+   "title": "Kyler Murray: 2018 Heisman Winner and First-Round MLB Pick",
+   "question": "Did Kyler Murray get drafted in baseball before winning the Heisman?",
+   "answer": "Yes. The Oakland Athletics took Kyler Murray ninth overall in the June 2018 MLB draft. He won the Heisman that December and chose football in February 2019, going No. 1 to Arizona.",
+   "summary": "Kyler Murray was a top-10 MLB draft pick by Oakland in 2018, then won the Heisman at OU and went No. 1 overall in the 2019 NFL draft to the Cardinals.",
+   "year": 2018,
+   "people": [
+    "Kyler Murray",
+    "Baker Mayfield"
+   ],
+   "publish_at": "2026-11-12T13:20:00-06:00",
+   "updated_at": "2026-11-12T13:20:00-06:00",
+   "hash": "bb69740690cfdce1"
+  },
+  {
+   "slug": "spencer-tillman-ou-running-back-cbs-fox-broadcaster",
+   "category": "after-football",
+   "title": "Spencer Tillman: From OU Captain to College Football Broadcaster",
+   "question": "Which former OU running back became a CBS and Fox college football analyst?",
+   "answer": "Spencer Tillman, an OU running back from 1983 to 1986, became a broadcaster and was CBS's lead college football studio analyst from 1999 to 2014 before joining Fox Sports.",
+   "summary": "Spencer Tillman, a captain on OU's 1985 title team, became a TV sportscaster and spent 16 years as CBS's lead college football studio analyst, then joined Fox.",
+   "year": 1999,
+   "people": [
+    "Spencer Tillman"
+   ],
+   "publish_at": "2026-11-12T13:00:00-06:00",
+   "updated_at": "2026-11-12T13:00:00-06:00",
+   "hash": "b0285f61cebdeb1b"
+  },
+  {
+   "slug": "baker-mayfield-walk-on-to-2017-heisman-oklahoma",
+   "category": "legends",
+   "title": "Baker Mayfield: From Walk-On to the 2017 Heisman Trophy",
+   "question": "Was Baker Mayfield a walk-on before winning the Heisman?",
+   "answer": "Yes. Baker Mayfield walked on at Texas Tech in 2013 and again at Oklahoma, and in 2017 he became the first Heisman winner since scholarships began in the 1950s to start his college career as a walk-on.",
+   "summary": "Baker Mayfield walked on at Texas Tech and then OU, set an NCAA passer rating record and won the 2017 Heisman before going No. 1 in the 2018 NFL draft.",
+   "year": 2017,
+   "people": [
+    "Baker Mayfield"
+   ],
+   "publish_at": "2026-11-12T12:40:00-06:00",
+   "updated_at": "2026-11-12T12:40:00-06:00",
+   "hash": "d4a76718d08cb53e"
+  },
+  {
+   "slug": "keith-jackson-ou-tight-end-park-nonprofit-little-rock",
+   "category": "after-football",
+   "title": "Keith Jackson's P.A.R.K.: An OU Tight End's Gift to Little Rock",
+   "question": "What nonprofit did former OU tight end Keith Jackson start?",
+   "answer": "Keith Jackson, OU's All-America tight end from 1984 to 1987, founded P.A.R.K. (Positive Atmosphere Reaches Kids), a Little Rock after-school nonprofit, in 1993.",
+   "summary": "All-American tight end Keith Jackson (OU 1984-87) founded P.A.R.K., a Little Rock nonprofit that helps at-risk students stay in school and reach college.",
+   "year": 1993,
+   "people": [
+    "Keith Jackson"
+   ],
+   "publish_at": "2026-11-12T12:20:00-06:00",
+   "updated_at": "2026-11-12T12:20:00-06:00",
+   "hash": "6f6ebede31ecc2a5"
+  },
+  {
+   "slug": "owen-field-gaylord-family-oklahoma-memorial-stadium-history",
+   "category": "moments",
+   "title": "Why It's Called Owen Field: History of Oklahoma Memorial Stadium",
+   "question": "Why is Oklahoma's football field called Owen Field?",
+   "answer": "The playing surface is named for Bennie Owen, OU's coach from 1905 to 1926, who helped raise money for the stadium. The stadium's Memorial name honors university people who died in World War I.",
+   "summary": "Owen Field honors coach Bennie Owen, and Oklahoma Memorial Stadium honors World War I dead. A short history of the Sooners' home from 1923 to its record crowd.",
+   "year": 1923,
+   "people": [
+    "Bennie Owen"
+   ],
+   "publish_at": "2026-11-12T12:00:00-06:00",
+   "updated_at": "2026-11-12T12:00:00-06:00",
+   "hash": "f7d268d0c56bd239"
+  },
+  {
+   "slug": "oklahoma-2008-offense-716-points-ncaa-scoring-record",
+   "category": "records",
+   "title": "2008 Oklahoma Offense: 716 Points and Five Straight 60-Point Games",
+   "question": "Which Oklahoma team scored the most points in a college football season?",
+   "answer": "The 2008 Sooners scored 716 points, then the NCAA Division I single-season record, and became the first team since Tulsa in 1919 to score 60 or more points in five straight games.",
+   "summary": "Oklahoma's 2008 offense scored 716 points and hit 60 in five straight games, led by Heisman winner Sam Bradford. Here's the record-setting run, game by game.",
+   "year": 2008,
+   "people": [
+    "Sam Bradford",
+    "Bob Stoops",
+    "Chris Brown"
+   ],
+   "publish_at": "2026-11-12T11:40:00-06:00",
+   "updated_at": "2026-11-12T11:40:00-06:00",
+   "hash": "7941420bd7e1ee43"
+  },
+  {
+   "slug": "sam-bradford-2008-heisman-trophy-oklahoma-50-touchdowns",
+   "category": "legends",
+   "title": "Sam Bradford's 2008 Heisman: 50 TD Passes and a Close Vote",
+   "question": "How many touchdowns did Sam Bradford throw in his 2008 Heisman season?",
+   "answer": "Sam Bradford threw 50 touchdown passes for 4,720 yards in 2008, counting the national title game, and won that year's Heisman Trophy as a redshirt sophomore.",
+   "summary": "Oklahoma City's Sam Bradford threw 50 TD passes in 2008 and won the Heisman over Colt McCoy and Tim Tebow, then went No. 1 overall in the 2010 NFL draft.",
+   "year": 2008,
+   "people": [
+    "Sam Bradford",
+    "Tim Tebow",
+    "Colt McCoy"
+   ],
+   "publish_at": "2026-11-12T11:20:00-06:00",
+   "updated_at": "2026-11-12T11:20:00-06:00",
+   "hash": "f9a5fa47e6afa10a"
+  },
+  {
+   "slug": "steve-owens-heisman-winner-ou-athletic-director-business",
+   "category": "after-football",
+   "title": "Steve Owens: Heisman Winner, Norman Businessman and OU AD",
+   "question": "Was Heisman winner Steve Owens ever OU's athletic director?",
+   "answer": "Steve Owens, OU's 1969 Heisman winner, served as the university's athletic director from August 1996 to March 1998 after building several businesses in Norman.",
+   "summary": "1969 Heisman winner Steve Owens (OU 1967-69) built businesses in Norman, helped found the Oklahoma Sports Hall of Fame and served as OU athletic director.",
+   "year": 1996,
+   "people": [
+    "Steve Owens"
+   ],
+   "publish_at": "2026-11-12T11:00:00-06:00",
+   "updated_at": "2026-11-12T11:00:00-06:00",
+   "hash": "579c591dea44ec19"
+  },
+  {
+   "slug": "oklahoma-2000-national-championship-orange-bowl-florida-state-13-2",
+   "category": "moments",
+   "title": "Oklahoma 13, Florida State 2: The 2000 National Championship Game",
+   "question": "What was the score when Oklahoma won the 2000 national championship?",
+   "answer": "Oklahoma beat Florida State 13-2 in the Orange Bowl on Jan. 3, 2001, finishing 13-0 and winning the BCS national title in Bob Stoops' second season as head coach.",
+   "summary": "Oklahoma beat Florida State 13-2 in the Jan. 3, 2001 Orange Bowl to finish 13-0 and win the BCS title. Here is how the Sooners defense shut down the Seminoles.",
+   "year": 2000,
+   "people": [
+    "Bob Stoops",
+    "Josh Heupel",
+    "Torrance Marshall",
+    "Quentin Griffin",
+    "Tim Duncan",
+    "Derrick Strait",
+    "Mike Stoops"
+   ],
+   "publish_at": "2026-11-12T10:40:00-06:00",
+   "updated_at": "2026-11-12T10:40:00-06:00",
+   "hash": "6ccf4244b87b4e64"
+  },
+  {
+   "slug": "how-many-national-championships-oklahoma-sooners-football",
+   "category": "records",
+   "title": "How Many National Championships Has Oklahoma Football Won? Seven",
+   "question": "How many national championships has Oklahoma football won?",
+   "answer": "Oklahoma claims seven national championships: 1950, 1955 and 1956 under Bud Wilkinson; 1974, 1975 and 1985 under Barry Switzer; and 2000 under Bob Stoops.",
+   "summary": "Oklahoma claims seven football national titles: 1950, 1955, 1956, 1974, 1975, 1985 and 2000. Here's each one, its coach, and the other years OU doesn't claim.",
+   "year": 2000,
+   "people": [
+    "Bud Wilkinson",
+    "Barry Switzer",
+    "Bob Stoops"
+   ],
+   "publish_at": "2026-11-12T10:20:00-06:00",
+   "updated_at": "2026-11-12T10:20:00-06:00",
+   "hash": "d9815e04349dbfaf"
+  },
+  {
+   "slug": "jason-white-2003-heisman-oklahoma-quarterback-comeback",
+   "category": "legends",
+   "title": "Jason White's 2003 Heisman: OU's Comeback Quarterback",
+   "question": "How did Jason White win the Heisman after two knee injuries?",
+   "answer": "Jason White, from Tuttle, Oklahoma, tore the ACL in each knee in 2001 and 2002, then threw for 3,744 yards and 40 touchdowns in 2003 to win the Heisman Trophy as Oklahoma's fourth winner.",
+   "summary": "Tuttle native Jason White came back from two torn ACLs to win the 2003 Heisman with 40 TD passes, then won the Davey O'Brien Award again in 2004.",
+   "year": 2003,
+   "people": [
+    "Jason White"
+   ],
+   "publish_at": "2026-11-12T10:00:00-06:00",
+   "updated_at": "2026-11-12T10:00:00-06:00",
+   "hash": "1f0f5b702e078d96"
+  },
+  {
+   "slug": "billy-sims-bbq-restaurant-chain-founded-2004-tulsa",
+   "category": "after-football",
+   "title": "Billy Sims BBQ: How OU's Heisman Winner Built a Restaurant Chain",
+   "question": "When did Billy Sims open his first Billy Sims BBQ restaurant?",
+   "answer": "Billy Sims, OU's 1978 Heisman winner, co-founded Billy Sims BBQ with partner Jeff Jackson; the first restaurant opened in Tulsa in 2004.",
+   "summary": "Heisman winner Billy Sims (OU 1975-79) co-founded Billy Sims BBQ with Jeff Jackson, opening the first one in Tulsa in 2004 before growing to 50-plus units.",
+   "year": 2004,
+   "people": [
+    "Billy Sims",
+    "Jeff Jackson"
+   ],
+   "publish_at": "2026-11-12T09:40:00-06:00",
+   "updated_at": "2026-11-12T09:40:00-06:00",
+   "hash": "dec1119daf70e397"
+  },
+  {
+   "slug": "oklahoma-1985-national-championship-orange-bowl-penn-state",
+   "category": "moments",
+   "title": "Oklahoma's 1985 National Title: 25-10 Orange Bowl Win Over Penn State",
+   "question": "How did Oklahoma win the 1985 national championship?",
+   "answer": "Oklahoma beat No. 1 Penn State 25-10 in the Orange Bowl on Jan. 1, 1986. With Miami losing to Tennessee in the Sugar Bowl the same day, the Sooners finished No. 1 for Barry Switzer's third national title.",
+   "summary": "Oklahoma beat No. 1 Penn State 25-10 in the Jan. 1, 1986 Orange Bowl to claim the 1985 national title behind freshman QB Jamelle Holieway and Keith Jackson.",
+   "year": 1985,
+   "people": [
+    "Barry Switzer",
+    "Jamelle Holieway",
+    "Keith Jackson",
+    "Tim Lashar",
+    "Lydell Carr",
+    "Brian Bosworth",
+    "Tony Casillas",
+    "Sonny Brown",
+    "Troy Aikman"
+   ],
+   "publish_at": "2026-11-12T09:20:00-06:00",
+   "updated_at": "2026-11-12T09:20:00-06:00",
+   "hash": "13bb5c6d8b6f8e3e"
+  },
+  {
+   "slug": "bud-wilkinson-national-championships-1950-1955-1956",
+   "category": "records",
+   "title": "Bud Wilkinson's Three National Titles at Oklahoma: 1950, 1955, 1956",
+   "question": "How many national championships did Bud Wilkinson win at Oklahoma?",
+   "answer": "Three: 1950, 1955 and 1956. Wilkinson went 145-29-4 at Oklahoma from 1947 through 1963 and won 14 conference championships in 17 seasons.",
+   "summary": "Bud Wilkinson led Oklahoma to national titles in 1950, 1955 and 1956 and went 145-29-4. A look at each championship team and the coach who built the dynasty.",
+   "year": 1955,
+   "people": [
+    "Bud Wilkinson",
+    "Tommy McDonald",
+    "Jerry Tubbs"
+   ],
+   "publish_at": "2026-11-12T09:00:00-06:00",
+   "updated_at": "2026-11-12T09:00:00-06:00",
+   "hash": "5c2e9b44aa9761c1"
+  },
+  {
+   "slug": "billy-sims-1978-heisman-trophy-oklahoma-bbq",
+   "category": "legends",
+   "title": "Billy Sims: 1978 Heisman Winner Who Built a BBQ Brand",
+   "question": "What year did Billy Sims win the Heisman and what did he do after football?",
+   "answer": "Billy Sims won the 1978 Heisman Trophy as a junior after leading the nation with 1,762 rushing yards. After his NFL career he co-founded Billy Sims Barbecue, which opened its first restaurant in Tulsa in 2004.",
+   "summary": "Billy Sims won the 1978 Heisman with a nation-best 1,762 rushing yards, went No. 1 in the NFL draft and later co-founded the Billy Sims Barbecue chain.",
+   "year": 1978,
+   "people": [
+    "Billy Sims",
+    "Jeff Jackson"
+   ],
+   "publish_at": "2026-11-12T08:40:00-06:00",
+   "updated_at": "2026-11-12T08:40:00-06:00",
+   "hash": "781e61735c038ce3"
+  },
+  {
+   "slug": "jack-mildren-wishbone-quarterback-lieutenant-governor-oklahoma",
+   "category": "after-football",
+   "title": "Jack Mildren: Wishbone QB Turned Oklahoma Lieutenant Governor",
+   "question": "Which OU quarterback became lieutenant governor of Oklahoma?",
+   "answer": "Jack Mildren, OU's quarterback from 1969 to 1971, was elected Oklahoma lieutenant governor in 1990 and served from 1991 to 1995.",
+   "summary": "Jack Mildren quarterbacked OU from 1969 to 1971, ran its record-setting wishbone, then became lieutenant governor, a banker and a sports radio host.",
+   "year": 1991,
+   "people": [
+    "Jack Mildren"
+   ],
+   "publish_at": "2026-11-12T08:20:00-06:00",
+   "updated_at": "2026-11-12T08:20:00-06:00",
+   "hash": "7dcfbb93fbc313fe"
+  },
+  {
+   "slug": "barry-switzer-back-to-back-national-titles-1974-1975",
+   "category": "moments",
+   "title": "Barry Switzer's Back-to-Back National Titles: Oklahoma 1974 and 1975",
+   "question": "Did Oklahoma win back-to-back national championships under Barry Switzer?",
+   "answer": "Yes. Switzer's 1974 Sooners went 11-0 and won the AP national title despite a bowl ban, and the 1975 team repeated at 11-1 after beating Michigan 14-6 in the Orange Bowl.",
+   "summary": "Barry Switzer's Sooners won national titles in 1974 and 1975, one under a bowl ban and one capped by a 14-6 Orange Bowl win over Michigan. Here's the story.",
+   "year": 1975,
+   "people": [
+    "Barry Switzer",
+    "Joe Washington",
+    "Lee Roy Selmon",
+    "Dewey Selmon",
+    "Rod Shoate",
+    "Steve Davis"
+   ],
+   "publish_at": "2026-11-12T08:00:00-06:00",
+   "updated_at": "2026-11-12T08:00:00-06:00",
+   "hash": "63701968c65b7277"
+  },
+  {
+   "slug": "1971-oklahoma-wishbone-ncaa-rushing-record-472-yards",
+   "category": "records",
+   "title": "1971 Oklahoma Wishbone Set NCAA Rushing Record: 472.4 Yards a Game",
+   "question": "What NCAA rushing record did Oklahoma's 1971 wishbone offense set?",
+   "answer": "The 1971 Sooners averaged 472.4 rushing yards per game, 5,196 yards in 11 regular-season games, an NCAA record. Barry Switzer ran the wishbone as offensive coordinator for head coach Chuck Fairbanks.",
+   "summary": "Oklahoma's 1971 wishbone ran for 472.4 yards a game, an NCAA record. Meet the Sooners offense led by Jack Mildren and Greg Pruitt under Fairbanks and Switzer.",
+   "year": 1971,
+   "people": [
+    "Jack Mildren",
+    "Greg Pruitt",
+    "Barry Switzer",
+    "Chuck Fairbanks"
+   ],
+   "publish_at": "2026-11-12T07:40:00-06:00",
+   "updated_at": "2026-11-12T07:40:00-06:00",
+   "hash": "c20d40e526b7b2ee"
+  },
+  {
+   "slug": "steve-owens-1969-heisman-trophy-oklahoma-running-back",
+   "category": "legends",
+   "title": "Steve Owens and the 1969 Heisman: OU's Workhorse Running Back",
+   "question": "When did Steve Owens win the Heisman Trophy and what were his stats?",
+   "answer": "Steve Owens won the 1969 Heisman Trophy after leading the nation in rushing with 1,523 yards and in scoring with 138 points. He was Oklahoma's second Heisman winner, after Billy Vessels.",
+   "summary": "Steve Owens won the 1969 Heisman after leading the nation with 1,523 rushing yards, then became a Lions star, OU athletic director and Norman businessman.",
+   "year": 1969,
+   "people": [
+    "Steve Owens"
+   ],
+   "publish_at": "2026-11-12T07:20:00-06:00",
+   "updated_at": "2026-11-12T07:20:00-06:00",
+   "hash": "593a76a797b4398d"
+  },
+  {
+   "slug": "jc-watts-ou-quarterback-to-congress-1995",
+   "category": "after-football",
+   "title": "J.C. Watts: From Sooners Quarterback to the U.S. Congress",
+   "question": "Which former OU quarterback became a U.S. Congressman?",
+   "answer": "J.C. Watts, OU's starting quarterback in 1979 and 1980, later represented Oklahoma in the U.S. House from 1995 to 2003 and chaired the House Republican Conference.",
+   "summary": "J.C. Watts led OU to back-to-back Orange Bowl wins, played in the CFL, then served Oklahoma in Congress from 1995 to 2003 and chaired the House GOP Conference.",
+   "year": 1995,
+   "people": [
+    "J.C. Watts"
+   ],
+   "publish_at": "2026-11-12T07:00:00-06:00",
+   "updated_at": "2026-11-12T07:00:00-06:00",
+   "hash": "3e2e5b3c0850512f"
+  },
+  {
+   "slug": "1971-game-of-the-century-nebraska-oklahoma-35-31",
+   "category": "moments",
+   "title": "1971 Game of the Century: Nebraska 35, Oklahoma 31 in Norman",
+   "question": "Who won the 1971 Game of the Century between Oklahoma and Nebraska?",
+   "answer": "Nebraska won 35-31 on Thanksgiving Day, Nov. 25, 1971, at Owen Field in Norman. Jeff Kinney's 2-yard touchdown run with 1:38 left decided the matchup of No. 1 Nebraska and No. 2 Oklahoma.",
+   "summary": "No. 1 Nebraska beat No. 2 Oklahoma 35-31 on Thanksgiving Day 1971 in Norman. Here's how the Game of the Century unfolded, from Rodgers' punt return to Kinney.",
+   "year": 1971,
+   "people": [
+    "Jack Mildren",
+    "Jon Harrison",
+    "Johnny Rodgers",
+    "Jeff Kinney",
+    "Bud Wilkinson"
+   ],
+   "publish_at": "2026-11-12T06:40:00-06:00",
+   "updated_at": "2026-11-12T06:40:00-06:00",
+   "hash": "d2a2c69db24ac1bb"
+  },
+  {
+   "slug": "oklahoma-47-game-winning-streak-1953-1957-notre-dame",
+   "category": "records",
+   "title": "Oklahoma's 47-Game Winning Streak (1953-57): How It Began and Ended",
+   "question": "What is the longest winning streak in college football history?",
+   "answer": "Oklahoma won 47 straight games from October 1953 to November 1957 under Bud Wilkinson, the longest winning streak in Division I history. Notre Dame ended it 7-0 in Norman on Nov. 16, 1957.",
+   "summary": "Oklahoma's record 47-game winning streak ran from 1953 to 1957 under Bud Wilkinson before Notre Dame ended it 7-0 in Norman. Here's how it started and stopped.",
+   "year": 1957,
+   "people": [
+    "Bud Wilkinson",
+    "Dick Lynch",
+    "Nick Pietrosante",
+    "Terry Brennan"
+   ],
+   "publish_at": "2026-11-12T06:20:00-06:00",
+   "updated_at": "2026-11-12T06:20:00-06:00",
+   "hash": "55a3f6586f192690"
+  },
+  {
+   "slug": "billy-vessels-1952-heisman-trophy-oklahoma-first",
+   "category": "legends",
+   "title": "Billy Vessels: Oklahoma's First Heisman Trophy Winner in 1952",
+   "question": "Who was the first Oklahoma Sooner to win the Heisman Trophy?",
+   "answer": "Halfback Billy Vessels of Cleveland, Oklahoma, won the 1952 Heisman Trophy, the first ever for OU. He ran for 1,072 yards and 17 touchdowns that fall under coach Bud Wilkinson.",
+   "summary": "Billy Vessels won OU's first Heisman in 1952 with 1,072 rushing yards, then built a second career in Florida real estate and horse racing regulation.",
+   "year": 1952,
+   "people": [
+    "Billy Vessels",
+    "Bud Wilkinson"
+   ],
+   "publish_at": "2026-11-12T06:00:00-06:00",
+   "updated_at": "2026-11-12T06:00:00-06:00",
+   "hash": "e437457b675f16bd"
+  }
+ ]
 }

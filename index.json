@@ -1,6 +1,23 @@
 {
- "count": 123,
+ "count": 124,
  "posts": [
+  {
+   "slug": "jamelle-holieway-1985-freshman-quarterback-national-champion-oklahoma",
+   "category": "legends",
+   "title": "Jamelle Holieway: The Freshman QB Who Won the 1985 Title",
+   "question": "Who was the freshman quarterback on Oklahoma's 1985 national championship team?",
+   "answer": "Jamelle Holieway, a true freshman from Los Angeles, took over at quarterback after Troy Aikman broke his leg against Miami in October 1985 and guided the Sooners to a 25-10 Orange Bowl win over Penn State and the national title.",
+   "summary": "Jamelle Holieway was a true freshman when he replaced the injured Troy Aikman and led Oklahoma's wishbone to the 1985 national championship. Here is his story.",
+   "year": 1985,
+   "people": [
+    "Jamelle Holieway",
+    "Troy Aikman",
+    "Keith Jackson"
+   ],
+   "publish_at": "2026-11-15T10:12:00-06:00",
+   "updated_at": "2026-11-15T10:12:00-06:00",
+   "hash": "40801601af36f3f1"
+  },
   {
    "slug": "oklahoma-23-alabama-21-2025-upset-tuscaloosa-bryant-denny",
    "category": "moments",

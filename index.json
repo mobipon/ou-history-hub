@@ -1,6 +1,24 @@
 {
- "count": 121,
+ "count": 122,
  "posts": [
+  {
+   "slug": "marcus-dupree-239-yards-1983-fiesta-bowl-oklahoma-record",
+   "category": "records",
+   "title": "Marcus Dupree's 239 Yards in the 1983 Fiesta Bowl",
+   "question": "How many yards did Marcus Dupree rush for in the 1983 Fiesta Bowl?",
+   "answer": "Oklahoma freshman Marcus Dupree ran 17 times for 239 yards against Arizona State on January 1, 1983, a Fiesta Bowl rushing record. The Sooners still lost 32-21.",
+   "summary": "Freshman Marcus Dupree ran for 239 yards on 17 carries in the 1983 Fiesta Bowl, a game record, though Oklahoma fell 32-21 to Arizona State in Tempe.",
+   "year": 1983,
+   "people": [
+    "Marcus Dupree",
+    "Barry Switzer",
+    "Luis Zendejas",
+    "Jim Jeffcoat"
+   ],
+   "publish_at": "2026-11-14T19:20:00-06:00",
+   "updated_at": "2026-11-14T19:20:00-06:00",
+   "hash": "eb94cc77de69df52"
+  },
   {
    "slug": "wahoo-mcdaniel-oklahoma-91-yard-punt-afl-pro-wrestling-hall-of-fame",
    "category": "after-football",

@@ -1,6 +1,22 @@
 {
- "count": 128,
+ "count": 129,
  "posts": [
+  {
+   "slug": "mark-andrews-2017-mackey-award-oklahoma-tight-end",
+   "category": "legends",
+   "title": "Mark Andrews Wins Oklahoma's First Mackey Award in 2017",
+   "question": "Who was the first Oklahoma player to win the Mackey Award as the nation's top tight end?",
+   "answer": "Mark Andrews won the John Mackey Award in 2017, becoming the first Oklahoma player to be named the nation's top tight end. He caught 62 passes for 958 yards that season.",
+   "summary": "Mark Andrews became the first Sooner to win the Mackey Award as college football's top tight end in 2017, after a 62-catch, 958-yard season.",
+   "year": 2017,
+   "people": [
+    "Mark Andrews",
+    "Baker Mayfield"
+   ],
+   "publish_at": "2026-11-16T10:20:00-06:00",
+   "updated_at": "2026-11-16T10:20:00-06:00",
+   "hash": "f9a6fcef82e6d10c"
+  },
   {
    "slug": "oklahoma-34-baylor-31-2019-largest-comeback-25-points-jalen-hurts",
    "category": "moments",

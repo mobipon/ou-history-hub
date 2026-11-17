@@ -1,6 +1,25 @@
 {
- "count": 132,
+ "count": 133,
  "posts": [
+  {
+   "slug": "oklahoma-50-west-virginia-49-2012-landry-jones-morgantown",
+   "category": "moments",
+   "title": "Oklahoma Edges West Virginia 50-49 in a 2012 Shootout",
+   "question": "What was the score of Oklahoma vs West Virginia on November 17, 2012?",
+   "answer": "Oklahoma won 50-49 at West Virginia on November 17, 2012. Landry Jones threw for 554 yards and six touchdowns, including the late go-ahead score to Kenny Stills.",
+   "summary": "On November 17, 2012, Landry Jones threw six touchdowns and 554 yards as Oklahoma outlasted West Virginia 50-49 in Morgantown. Here is how it played out.",
+   "year": 2012,
+   "people": [
+    "Landry Jones",
+    "Kenny Stills",
+    "Geno Smith",
+    "Stedman Bailey",
+    "Tavon Austin"
+   ],
+   "publish_at": "2026-11-17T07:25:00-06:00",
+   "updated_at": "2026-11-17T07:25:00-06:00",
+   "hash": "ad572d8cbde40f3c"
+  },
   {
    "slug": "oklahoma-77-texas-a-m-0-2003-big-12-record-margin-norman",
    "category": "records",

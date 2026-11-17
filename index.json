@@ -1,6 +1,22 @@
 {
- "count": 133,
+ "count": 134,
  "posts": [
+  {
+   "slug": "waddy-young-1938-oklahoma-first-consensus-all-american",
+   "category": "legends",
+   "title": "Waddy Young: Oklahoma's First Consensus All-American",
+   "question": "Who was the first consensus All-American in Oklahoma football history?",
+   "answer": "End Waddy Young, who played at Oklahoma from 1936 to 1938, was the Sooners' first consensus All-American, earning the honor in 1938. He entered the College Football Hall of Fame in 1986.",
+   "summary": "Waddy Young, a Ponca City end, became Oklahoma's first consensus All-American in 1938, reached the College Football Hall of Fame, and died a war hero in 1945.",
+   "year": 1938,
+   "people": [
+    "Waddy Young",
+    "Tom Stidham"
+   ],
+   "publish_at": "2026-11-17T10:25:00-06:00",
+   "updated_at": "2026-11-17T10:25:00-06:00",
+   "hash": "88a0870005606140"
+  },
   {
    "slug": "oklahoma-50-west-virginia-49-2012-landry-jones-morgantown",
    "category": "moments",

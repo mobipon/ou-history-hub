@@ -1,6 +1,19 @@
 {
- "count": 137,
+ "count": 138,
  "posts": [
+  {
+   "slug": "oklahoma-14-kansas-10-november-18-1967-comeback-big-eight-title",
+   "category": "moments",
+   "title": "Oklahoma 14, Kansas 10: The Nov. 18, 1967 Comeback in Norman",
+   "question": "What happened when Oklahoma played Kansas on November 18, 1967?",
+   "answer": "No. 7 Oklahoma beat Kansas 14-10 at Norman on November 18, 1967, scoring the final touchdown in the fourth quarter after trailing 10-7 entering the period. The win kept the Sooners unbeaten in Big Eight play on the way to a conference title.",
+   "summary": "On November 18, 1967, No. 7 Oklahoma rallied past Kansas 14-10 in Norman, a late-season escape on the way to the Big Eight title and an Orange Bowl win.",
+   "year": 1967,
+   "people": [],
+   "publish_at": "2026-11-18T07:25:00-06:00",
+   "updated_at": "2026-11-18T07:25:00-06:00",
+   "hash": "5f3b46c15d85b74e"
+  },
   {
    "slug": "thomas-lott-oklahoma-wishbone-quarterback-1976-1978-all-big-eight",
    "category": "legends",
@@ -650,8 +663,8 @@
     "Brent Venables"
    ],
    "publish_at": "2026-11-12T17:23:27-06:00",
-   "updated_at": "2026-11-12T17:23:27-06:00",
-   "hash": "3050d3daa620db9d"
+   "updated_at": "2026-11-18T07:35:00-06:00",
+   "hash": "6d09a63cc01ac7ad"
   },
   {
    "slug": "boomer-sooner-fight-song-origin-arthur-alden-1905",

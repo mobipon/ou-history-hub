@@ -1,6 +1,21 @@
 {
- "count": 143,
+ "count": 144,
  "posts": [
+  {
+   "slug": "kurt-burris-1954-oklahoma-center-heisman-runner-up-hall-of-fame",
+   "category": "legends",
+   "title": "Kurt Burris: OU Center and 1954 Heisman Runner-Up",
+   "question": "Which Oklahoma center finished second in the 1954 Heisman Trophy voting?",
+   "answer": "Kurt Burris, a consensus All-American center, finished second to Wisconsin's Alan Ameche in the 1954 Heisman voting. He was inducted into the College Football Hall of Fame in 2000.",
+   "summary": "Kurt Burris, Oklahoma's center and linebacker from 1951 to 1954, was a consensus All-American and the 1954 Heisman runner-up. Here is his story.",
+   "year": 1954,
+   "people": [
+    "Kurt Burris"
+   ],
+   "publish_at": "2026-11-19T10:20:00-06:00",
+   "updated_at": "2026-11-19T10:20:00-06:00",
+   "hash": "bf72a66d769ef649"
+  },
   {
    "slug": "baylor-45-oklahoma-38-november-19-2011-griffin-first-baylor-win",
    "category": "moments",

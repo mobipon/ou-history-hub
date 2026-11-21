@@ -1,6 +1,22 @@
 {
- "count": 153,
+ "count": 154,
  "posts": [
+  {
+   "slug": "tom-brahaney-oklahoma-center-1971-1972-consensus-all-american",
+   "category": "legends",
+   "title": "Tom Brahaney: Two-Time Consensus All-American Center",
+   "question": "Which Oklahoma center was a consensus All-American in 1971 and 1972 and later a College Football Hall of Famer?",
+   "answer": "Tom Brahaney, who played at Oklahoma from 1970 to 1972, was a consensus All-America center in both 1971 and 1972. The College Football Hall of Fame inducted him in 2007.",
+   "summary": "Tom Brahaney anchored OU's Wishbone line, faced Rich Glover in the 1971 Game of the Century, and became a two-time consensus All-American and Hall of Famer.",
+   "year": 1972,
+   "people": [
+    "Tom Brahaney",
+    "Rich Glover"
+   ],
+   "publish_at": "2026-11-21T10:12:00-06:00",
+   "updated_at": "2026-11-21T10:12:00-06:00",
+   "hash": "63de272f25525875"
+  },
   {
    "slug": "oklahoma-41-oklahoma-state-13-november-21-2020-bedlam-rattler",
    "category": "moments",

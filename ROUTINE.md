@@ -30,7 +30,7 @@ about every 10 minutes; pushing to `main` is publishing.
 5. **Fact-check before publishing.** Re-open each source and confirm every name, date, score,
    number, award, office and business claim. Fix or delete anything you cannot confirm. If the core
    answer can't be confirmed, drop the topic and pick another. Living people: only well-documented
-   positive or neutral facts. No rumors, legal or health matters, money speculation, or betting content.
+   positive or neutral facts. No rumors, legal matters, money speculation, or betting content. A former player's or coach's death may be covered (tributes, "in memoriam" posts) when reliable news sources have reported it: state the date and cause only as those sources report them, keep the tone respectful, and focus on their OU career and life. Other health matters of living people stay out.
 6. Set `publish_at` to **now** (current America/Chicago time, ISO 8601 with the correct offset:
    -06:00 in standard time, -05:00 in daylight time), so it goes live as soon as the site syncs.
 7. **Refresh one existing post.** Pick the post with the oldest `updated_at` among those whose facts

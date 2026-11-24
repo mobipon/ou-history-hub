@@ -1,22 +1,44 @@
 {
   "slug": "dede-westbrook-232-receiving-yards-texas-2016-oklahoma-single-game-record",
   "category": "records",
-  "title": "Dede Westbrook's 232 Yards vs. Texas: OU Single-Game Record",
+  "title": "Dede Westbrook's 232 Yards vs. Texas: Once OU's Receiving Record",
   "question": "Who holds Oklahoma's single-game receiving yards record?",
-  "answer": "Dede Westbrook caught 10 passes for 232 yards and three touchdowns in Oklahoma's 45-40 win over Texas on Oct. 8, 2016, an Oklahoma single-game receiving record.",
-  "summary": "Dede Westbrook's 10-catch, 232-yard, three-touchdown afternoon against Texas in 2016 set Oklahoma's single-game receiving yardage record in the Red River Showdown.",
+  "answer": "Marquise Brown holds it with 265 yards at Oklahoma State in 2017. Dede Westbrook set the mark first, with 232 yards and three touchdowns in a 45-40 win over Texas on Oct. 8, 2016.",
+  "summary": "Dede Westbrook's 232-yard game against Texas in 2016 set an Oklahoma receiving record, since passed by Marquise Brown's 265 yards at Oklahoma State in 2017.",
   "body": [
-    "Oklahoma's single-game receiving yards record belongs to Dede Westbrook, and he set it on a big stage. On Oct. 8, 2016, the Sooners beat Texas 45-40 in Dallas, and Westbrook was at the center of it, finishing with 10 catches for 232 yards and three touchdowns.",
-    "His three scores covered 71, 42 and 47 yards, so almost all of his production came on explosive plays rather than short gains. Baker Mayfield threw for 390 yards in the game, and Westbrook was his favorite target all afternoon. Reports from CBS and Fox Sports both describe the 232 yards as an Oklahoma single-game receiving record.",
+    "Dede Westbrook's 232-yard day against Texas was Oklahoma's single-game receiving record when he set it, though it has since been passed. On Oct. 8, 2016, the Sooners beat Texas 45-40 in Dallas, and Westbrook finished with 10 catches for 232 yards and three touchdowns.",
+    "His three scores covered 71, 42 and 47 yards, so almost all of his production came on explosive plays rather than short gains. Baker Mayfield threw for 390 yards in the game, and Westbrook was his favorite target all afternoon. Reports from Bleacher Report and Fox Sports described the 232 yards as an Oklahoma single-game receiving record at the time.",
     "The offense around him was just as busy. Oklahoma piled up 672 total yards, and Samaje Perine ran 35 times for 214 yards and two touchdowns. The teams combined for 85 points, which kept the Sooners from ever relaxing against a Texas team that kept answering.",
-    "The game fit into a remarkable season for Westbrook. He went on to win the Biletnikoff Award as the nation's top receiver and finished the year with 1,524 receiving yards and 17 touchdown catches. When fans ask who has the biggest receiving day in OU history, the answer is still that October afternoon in the Red River Showdown."
+    "The game fit into a remarkable season for Westbrook. He went on to win the Biletnikoff Award as the nation's top receiver and finished the year with 1,524 receiving yards and 17 touchdown catches. Marquise Brown later took the single-game record with 265 yards at Oklahoma State in 2017, and Westbrook's 232 still ranks among the best receiving games in OU history."
   ],
-  "people": ["Dede Westbrook", "Baker Mayfield", "Samaje Perine"],
+  "people": [
+    "Dede Westbrook",
+    "Baker Mayfield",
+    "Samaje Perine"
+  ],
   "year": 2016,
   "sources": [
-    {"title": "Dede Westbrook sets Oklahoma record with 232 receiving yards vs. Texas - Bleacher Report", "url": "https://bleacherreport.com/articles/2668491-dede-westbrook-sets-oklahoma-record-with-232-receiving-yards-vs-texas", "supports": "10 catches, 232 yards, 3 TDs, 45-40, Dallas, school record"},
-    {"title": "Oklahoma Gets Red River Rivalry Win Over Texas 45-40 - CBS News Texas", "url": "https://www.cbsnews.com/texas/news/oklahoma-gets-red-river-rivalry-win-over-texas-45-40", "supports": "TD lengths of 71, 42, 47; 672 total yards; 85 combined points"},
-    {"title": "Sooners outshoot, outlast Longhorns in Red River Showdown - Fox Sports", "url": "https://www.foxsports.com/stories/college-football/sooners-outshoot-outlast-longhorns-in-red-river-showdown", "supports": "Mayfield 390 yards, Perine 35 carries for 214 yards, record language"}
+    {
+      "title": "Dede Westbrook sets Oklahoma record with 232 receiving yards vs. Texas - Bleacher Report",
+      "url": "https://bleacherreport.com/articles/2668491-dede-westbrook-sets-oklahoma-record-with-232-receiving-yards-vs-texas",
+      "supports": "10 catches, 232 yards, 3 TDs, 45-40, Dallas, school record"
+    },
+    {
+      "title": "Oklahoma Gets Red River Rivalry Win Over Texas 45-40 - CBS News Texas",
+      "url": "https://www.cbsnews.com/texas/news/oklahoma-gets-red-river-rivalry-win-over-texas-45-40",
+      "supports": "TD lengths of 71, 42, 47; 672 total yards; 85 combined points"
+    },
+    {
+      "title": "Sooners outshoot, outlast Longhorns in Red River Showdown - Fox Sports",
+      "url": "https://www.foxsports.com/stories/college-football/sooners-outshoot-outlast-longhorns-in-red-river-showdown",
+      "supports": "Mayfield 390 yards, Perine 35 carries for 214 yards, record language"
+    },
+    {
+      "title": "By the Numbers: OU receiving records and 200-yard games - 247Sports",
+      "url": "https://247sports.com/college/oklahoma/Article/Oklahoma-Sooners-football-history-receiving-records-200-yard-games-Ryan-Broyles-Sterling-Shepard-Marquise-Hollywood-Brown-Manuel-Johnson-Dede-Westbrook-169740873/",
+      "supports": "Marquise Brown's 265 yards at Oklahoma State in 2017 is the current OU single-game record; Westbrook's 232 vs. Texas listed among 200-yard games"
+    }
   ],
-  "publish_at": "2026-11-23T13:25:00-06:00"
+  "publish_at": "2026-11-23T13:25:00-06:00",
+  "updated_at": "2026-11-24T13:30:00-06:00"
 }

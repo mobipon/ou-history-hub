@@ -1,6 +1,21 @@
 {
- "count": 175,
+ "count": 176,
  "posts": [
+  {
+   "slug": "gabe-ikard-2013-wuerffel-trophy-oklahoma-center-first-sooner",
+   "category": "legends",
+   "title": "Gabe Ikard: Oklahoma's First Wuerffel Trophy Winner",
+   "question": "Which Oklahoma center won the 2013 Wuerffel Trophy?",
+   "answer": "Gabe Ikard, the Sooners' center from Oklahoma City, won the Wuerffel Trophy for the 2013 season, becoming the first Oklahoma winner of the award for community service paired with academic and athletic excellence.",
+   "summary": "Gabe Ikard, OU's 2013 All-American center, earned the Wuerffel Trophy for service, a 4.0 GPA and a Sugar Bowl upset of Alabama.",
+   "year": 2013,
+   "people": [
+    "Gabe Ikard"
+   ],
+   "publish_at": "2026-11-25T10:13:24-06:00",
+   "updated_at": "2026-11-25T10:13:24-06:00",
+   "hash": "9c722464955f8d30"
+  },
   {
    "slug": "oklahoma-12-oklahoma-state-7-november-25-2000-perfect-regular-season",
    "category": "moments",

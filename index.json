@@ -1,6 +1,22 @@
 {
- "count": 177,
+ "count": 178,
  "posts": [
+  {
+   "slug": "clendon-thomas-oklahoma-halfback-1955-1957-chemical-products-founder",
+   "category": "after-football",
+   "title": "Clendon Thomas: OU Halfback Turned Business Founder",
+   "question": "What did Oklahoma halfback Clendon Thomas do after his NFL career?",
+   "answer": "Clendon Thomas, a halfback on Oklahoma's 1955 and 1956 national championship teams, founded and ran Chemical Products Corp. for 25 years after 11 NFL seasons. He was also founding president of the Putnam City Schools Foundation.",
+   "summary": "Clendon Thomas starred at OU from 1955 to 1957, played 11 NFL seasons, then founded Chemical Products Corp. and helped launch a schools foundation.",
+   "year": 1957,
+   "people": [
+    "Clendon Thomas",
+    "Bud Wilkinson"
+   ],
+   "publish_at": "2026-11-25T16:20:00-06:00",
+   "updated_at": "2026-11-25T16:20:00-06:00",
+   "hash": "98e2d576dd0fbea5"
+  },
   {
    "slug": "marquise-brown-265-yards-bedlam-2017-oklahoma-record",
    "category": "records",
@@ -1876,8 +1892,8 @@
     "Michael Irvin"
    ],
    "publish_at": "2026-11-12T16:47:10-06:00",
-   "updated_at": "2026-11-12T16:47:10-06:00",
-   "hash": "603a5ef096dc911b"
+   "updated_at": "2026-11-25T16:30:00-06:00",
+   "hash": "f14d836eb748ea8e"
   },
   {
    "slug": "ou-first-bowl-game-1939-orange-bowl-tennessee",

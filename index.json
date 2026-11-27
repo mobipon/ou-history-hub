@@ -1,6 +1,25 @@
 {
- "count": 186,
+ "count": 187,
  "posts": [
+  {
+   "slug": "oklahoma-single-game-receiving-touchdowns-record-four-three-sooners",
+   "category": "records",
+   "title": "Three Sooners Share OU's Single-Game Receiving TD Record",
+   "question": "What is Oklahoma's single-game record for touchdown catches, and who holds it?",
+   "answer": "Oklahoma's single-game record is four touchdown receptions, shared by Trent Smith (Kansas, 2001), Jermaine Gresham (Texas A&M, 2007) and Kenny Stills (West Virginia, 2012).",
+   "summary": "Four touchdown catches in one game is the Oklahoma record, shared by Trent Smith, Jermaine Gresham and Kenny Stills across three different decades.",
+   "year": 2007,
+   "people": [
+    "Trent Smith",
+    "Jermaine Gresham",
+    "Kenny Stills",
+    "Sam Bradford",
+    "Landry Jones"
+   ],
+   "publish_at": "2026-11-27T13:11:41-06:00",
+   "updated_at": "2026-11-27T13:11:41-06:00",
+   "hash": "5e8002098750416a"
+  },
   {
    "slug": "bill-krisher-oklahoma-guard-1957-consensus-all-american-afl-all-star",
    "category": "legends",
